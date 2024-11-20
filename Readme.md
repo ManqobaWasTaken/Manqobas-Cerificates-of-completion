@@ -1,4 +1,4 @@
-##Hello and Welcome! 👋
+Hello and Welcome! 👋
 
 Hello World! 
 
@@ -8,4 +8,13 @@ As of November 20th, 2024, I am immersing myself in the world of Data 📊, expl
 
 Thank you for visiting, and I look forward to sharing my continued growth in the field! 
 
-##Certificates
+Structure
+- `Certificates-of-Completion/`
+  - `README.md`
+  - `Data-Science-and-Analysis/`
+    - `DataWars`
+    - `Kaggle`
+  - `frontend-development`
+    - `hackerank`
+  - `backend-development`
+    - `hackerrank`
